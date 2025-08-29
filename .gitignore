@@ -1,0 +1,16 @@
+.env
+data/
+*.mp3
+*.zip
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.DS_Store
+Thumbs.db
+*.zip
+*.mp3
+.vscode/
+.idea/
